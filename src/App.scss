@@ -1,0 +1,12 @@
+.app-frontend, .app-backend{
+    min-height: 500px;
+    position: relative;
+    &__img{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        height: 300px;
+        opacity: .15;
+    }
+}

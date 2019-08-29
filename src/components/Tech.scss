@@ -1,0 +1,9 @@
+.tech{
+    text-align: center;
+    &__img{
+        height: 100%;
+        &-container{
+            height: 4rem;
+        }
+    }
+}
