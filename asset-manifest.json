@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vscode/static/css/main.54877e2d.chunk.css",
+    "main.js": "/vscode/static/js/main.57290459.chunk.js",
+    "main.js.map": "/vscode/static/js/main.57290459.chunk.js.map",
+    "runtime~main.js": "/vscode/static/js/runtime~main.e2dad7a5.js",
+    "runtime~main.js.map": "/vscode/static/js/runtime~main.e2dad7a5.js.map",
+    "static/css/2.266e55a5.chunk.css": "/vscode/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d782326d.chunk.js": "/vscode/static/js/2.d782326d.chunk.js",
+    "static/js/2.d782326d.chunk.js.map": "/vscode/static/js/2.d782326d.chunk.js.map",
+    "index.html": "/vscode/index.html",
+    "precache-manifest.cbc644599d1eb5aeeee7b758f6962bbc.js": "/vscode/precache-manifest.cbc644599d1eb5aeeee7b758f6962bbc.js",
+    "service-worker.js": "/vscode/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/vscode/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.54877e2d.chunk.css.map": "/vscode/static/css/main.54877e2d.chunk.css.map",
+    "static/media/Backend.png": "/vscode/static/media/Backend.f7ac676c.png",
+    "static/media/Frontend.png": "/vscode/static/media/Frontend.003d739f.png"
+  }
+}
